@@ -106,7 +106,7 @@ h4 {
 
 @media screen and (min-width:800px){
     .container{
-        background-color: var(--clr-light);
+        background-color: var(--Light-Grayish-Blue);
         padding:3em;
         margin: 120px 70px 0px 70px;
     }
